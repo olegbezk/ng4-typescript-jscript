@@ -1,0 +1,1 @@
+Comparison of a typescript language features with the vanilla javascript features
